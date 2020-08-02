@@ -8,12 +8,7 @@
 ​	
 	**版权所有，所有内容全部一个个字码出来的，转载必须说明来源**
 
-​	**ACL4SSR在线Clash等规则订阅转换**：https://acl4ssr.netlify.com
-
-​	**项目镜像**：https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@latest/
-
 ​	**项目地址**：https://github.com/ACL4SSR/ACL4SSR
-
 
 
 ## 1.0 去广告的种类
